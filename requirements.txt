@@ -9,7 +9,7 @@ flake8-quotes==3.3.2
 flake8-variables-names==0.0.5
 mccabe==0.7.0
 pep8-naming==0.13.3
-psycopg2-binary>=2.9.9
+psycopg2-binary==2.9.5
 pycodestyle==2.10.0
 pyflakes==3.0.1
 python-dotenv==0.21.1
